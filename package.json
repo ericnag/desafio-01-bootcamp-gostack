@@ -1,0 +1,16 @@
+{
+  "name": "desafio-01-bootcamp-gostack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eric Nagamuta <enagamuta@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
